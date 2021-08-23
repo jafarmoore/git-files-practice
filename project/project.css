@@ -1,0 +1,43 @@
+body{
+	a:hover , a:active{
+			background: black;
+			color: white;
+		}
+
+		div {
+			color: blue;
+			background: black ;
+			margin-bottom: 1px;
+		}
+
+		section article  {
+			color:purple;
+			text-decoration: underline;
+			font-style:italic ;
+
+		}
+
+		section>div{
+			color: blue;
+			text-align: center;
+		}
+
+
+		.connect{
+			font-size: 30px;
+			text-decoration:none;
+		}
+
+		#name{
+			font-size: 40px;
+			background: black;
+			color: purple;
+			text-align: center;
+			margin-bottom: 40px;
+		}
+
+		article.connect{
+			font-size: 10px;
+			background: black;
+		}
+}
